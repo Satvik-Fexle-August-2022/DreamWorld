@@ -1,5 +1,5 @@
 public class DemoTrainingClass {
- public void hello(){
-    System.debug('Hello');
- }
+    public DemoTrainingClass(){
+        system.debug('Hello Debug');
+    }
 }
